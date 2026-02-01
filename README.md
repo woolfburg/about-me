@@ -1,10 +1,10 @@
-# 👋 Hi, I’m WB
+# 👋 Hi, I’m MUHAMMAD HAIDAR
 
 **Senior Software Engineer · AI & Machine Learning Engineer · Automation Architect**  
 Systems · Cloud-Native · Full-Stack · Mobile · MLOps  
 Operating Globally · Based in Indonesia 🇮🇩
 
-📍 Malang, Indonesia
+📍 Jakata Selatan, Indonesia
 
 <p align="left">
   <a href="https://www.linkedin.com" target="_blank">
@@ -18,28 +18,6 @@ Operating Globally · Based in Indonesia 🇮🇩
   </a>
 </p>
 
----
-
-## 🧠 About Me
-
-I’m a **senior-level software engineer** focused on building **scalable, secure, and production-grade systems**.
-
-My work spans:
-- Distributed backend systems
-- AI & machine learning pipelines
-- Automation & workflow orchestration
-- Cloud-native and DevOps architectures
-- Security-aware engineering
-
-I value:
-- Clean architecture
-- Reliability over hype
-- Automation-first mindset
-- Performance, observability, and security
-- Long-term maintainability
-
----
-
 ## 🕹️ Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph-dark.svg">
@@ -50,54 +28,15 @@ I value:
 ---
 
 ## 🧰 Tech Stack (All-in-One)
-
-### 🧠 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,go,java,kotlin,swift,rust,python,js,ts,php,dart" />
-</p>
-
-### 🌐 Frontend · Mobile
-<p>
 <img src="https://skillicons.dev/icons?theme=dark&i=html,css,tailwind,bootstrap,react,next,vue,svelte,angular,threejs,flutter,android,apple" />
-</p>
-
-### ⚡ Backend · API · Systems
-<p>
 <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,nestjs,express,fastapi,flask,graphql,spring" />
-</p>
-
-### 🧠 AI · Machine Learning · Data
-<p>
 <img src="https://skillicons.dev/icons?theme=dark&i=tensorflow,pytorch,python,numpy,pandas,sklearn,kaggle" />
-</p>
-
-### 🗄️ Databases · Search · Cache
-<p>
 <img src="https://skillicons.dev/icons?theme=dark&i=postgres,mysql,mongodb,sqlite,redis,elasticsearch" />
-</p>
-
-### ☁️ Cloud · DevOps · Infrastructure
-<p>
 <img src="https://skillicons.dev/icons?theme=dark&i=docker,kubernetes,nginx,terraform,linux,aws,gcp,azure" />
-</p>
-
-### 🔄 CI/CD · Automation
-<p>
 <img src="https://skillicons.dev/icons?theme=dark&i=githubactions,gitlab,jenkins,bash,powershell" />
-</p>
-
-### 🛠️ Engineering Tools
-<p>
 <img src="https://skillicons.dev/icons?theme=dark&i=git,github,gitlab,postman,figma,notion,jira,trello,vscode" />
-</p>
-
----
-
-## ☠️ Security & Hacker Tooling (Defensive & Research)
-
-> Used for **security testing, system hardening, and vulnerability research**
-
-<p>
 <img src="https://img.shields.io/badge/Kali_Linux-000000?logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-00457C?logo=nmap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/>
@@ -109,9 +48,6 @@ I value:
 <img src="https://img.shields.io/badge/John_the_Ripper-111111"/>
 <img src="https://img.shields.io/badge/Shodan-FF0000"/>
 </p>
-
----
-
 ## 🏗️ What I Build
 
 - High-throughput backend services
