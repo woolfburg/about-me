@@ -2,7 +2,7 @@
 Systems · Cloud-Native · Full-Stack · Mobile · MLOps  
 Operating Globally · Based in Indonesia 🇮🇩
 📍 Jakata Selatan, Indonesia
-## 🧰 Tech Stack (All-in-One)
+## 🧰 Tech Stack
 <p>
 <img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,go,java,kotlin,swift,rust,python,js,ts,php,dart" />
 <img src="https://skillicons.dev/icons?theme=dark&i=html,css,tailwind,bootstrap,react,next,vue,svelte,angular,threejs,flutter,android,apple" />
