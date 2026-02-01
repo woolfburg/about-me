@@ -18,15 +18,6 @@ Operating Globally · Based in Indonesia 🇮🇩
   </a>
 </p>
 
-## 🕹️ Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## 🧰 Tech Stack (All-in-One)
 <p>
 <img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,go,java,kotlin,swift,rust,python,js,ts,php,dart" />
