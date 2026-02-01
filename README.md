@@ -1,23 +1,7 @@
 # 👋 Hi, I’m MUHAMMAD HAIDAR
-
-**Senior Software Engineer · AI & Machine Learning Engineer · Automation Architect**  
 Systems · Cloud-Native · Full-Stack · Mobile · MLOps  
 Operating Globally · Based in Indonesia 🇮🇩
-
 📍 Jakata Selatan, Indonesia
-
-<p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-WB-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-WB-181717?logo=github&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-wb.dev-111111?logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
 ## 🧰 Tech Stack (All-in-One)
 <p>
 <img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,go,java,kotlin,swift,rust,python,js,ts,php,dart" />
@@ -39,6 +23,7 @@ Operating Globally · Based in Indonesia 🇮🇩
 <img src="https://img.shields.io/badge/John_the_Ripper-111111"/>
 <img src="https://img.shields.io/badge/Shodan-FF0000"/>
 </p>
+---
 ## 🏗️ What I Build
 
 - High-throughput backend services
